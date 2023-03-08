@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\Daniel Landaeta\NumRot\Prueba_Tecnica\pruebaTecnica\bin\Debug\net7.0\pruebaTecnica.exe
+C:\Users\Usuario\Documents\Daniel Landaeta\NumRot\Prueba_Tecnica\pruebaTecnica\bin\Debug\net7.0\pruebaTecnica.deps.json
+C:\Users\Usuario\Documents\Daniel Landaeta\NumRot\Prueba_Tecnica\pruebaTecnica\bin\Debug\net7.0\pruebaTecnica.runtimeconfig.json
+C:\Users\Usuario\Documents\Daniel Landaeta\NumRot\Prueba_Tecnica\pruebaTecnica\bin\Debug\net7.0\pruebaTecnica.dll
+C:\Users\Usuario\Documents\Daniel Landaeta\NumRot\Prueba_Tecnica\pruebaTecnica\bin\Debug\net7.0\pruebaTecnica.pdb
+C:\Users\Usuario\Documents\Daniel Landaeta\NumRot\Prueba_Tecnica\pruebaTecnica\obj\Debug\net7.0\pruebaTecnica.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Daniel Landaeta\NumRot\Prueba_Tecnica\pruebaTecnica\obj\Debug\net7.0\pruebaTecnica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Daniel Landaeta\NumRot\Prueba_Tecnica\pruebaTecnica\obj\Debug\net7.0\pruebaTecnica.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Daniel Landaeta\NumRot\Prueba_Tecnica\pruebaTecnica\obj\Debug\net7.0\pruebaTecnica.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Daniel Landaeta\NumRot\Prueba_Tecnica\pruebaTecnica\obj\Debug\net7.0\pruebaTecnica.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Daniel Landaeta\NumRot\Prueba_Tecnica\pruebaTecnica\obj\Debug\net7.0\pruebaTecnica.dll
+C:\Users\Usuario\Documents\Daniel Landaeta\NumRot\Prueba_Tecnica\pruebaTecnica\obj\Debug\net7.0\refint\pruebaTecnica.dll
+C:\Users\Usuario\Documents\Daniel Landaeta\NumRot\Prueba_Tecnica\pruebaTecnica\obj\Debug\net7.0\pruebaTecnica.pdb
+C:\Users\Usuario\Documents\Daniel Landaeta\NumRot\Prueba_Tecnica\pruebaTecnica\obj\Debug\net7.0\pruebaTecnica.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Daniel Landaeta\NumRot\Prueba_Tecnica\pruebaTecnica\obj\Debug\net7.0\ref\pruebaTecnica.dll
